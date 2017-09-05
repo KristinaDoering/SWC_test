@@ -7,3 +7,7 @@
 ## Results
 
 ## Material and Methods
+
+## Discussion
+
+## References
